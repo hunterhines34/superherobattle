@@ -43,7 +43,7 @@ conn.commit()
 
 # Function to add 30 superheroes at a time
 def add_superheroes(start_id, end_id):
-    api_key = '64c8df392e8c5a74eed568c060d4daa4'  # Replace with your actual API key
+    api_key = ''  # Replace with your actual API key
     base_url = f'https://superheroapi.com/api/{api_key}'
 
     for hero_id in range(start_id, end_id + 1):
