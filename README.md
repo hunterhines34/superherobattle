@@ -24,7 +24,7 @@ The Superhero Comparison Tool is an interactive web application built with Strea
 - pip
 
 ### Steps
-1. Clone the repository: `git clone https://github.com/yourusername/superhero-comparison-tool.git` and then `cd superhero-comparison-tool`
+1. Clone the repository: `git clone https://github.com/yourusername/superhero-comparison-tool.git` and `cd superhero-comparison-tool`
 2. Create a virtual environment: `python -m venv venv source venv/bin/activate` (On Windows use `venv\Scripts\activate`)
 3. Install the required packages: `pip install -r requirements.txt`
 
@@ -51,7 +51,7 @@ Contributions to improve the Superhero Comparison Tool are welcome. Please follo
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Hunter Hines - hunter@hineslabs.org
 
 Project Link: [https://github.com/yourusername/superhero-comparison-tool](https://github.com/yourusername/superhero-comparison-tool)
 
