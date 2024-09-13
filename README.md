@@ -51,7 +51,7 @@ Contributions to improve the Superhero Comparison Tool are welcome. Please follo
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Hunter Hines - hunter@hineslabs.org
+Hunter Hines - admin@hineslabs.org
 
 Project Link: [https://github.com/yourusername/superhero-comparison-tool](https://github.com/yourusername/superhero-comparison-tool)
 
