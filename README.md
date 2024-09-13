@@ -17,6 +17,9 @@ The Superhero Comparison Tool is an interactive web application built with Strea
 - Pandas
 - Altair
 
+## Demo
+https://superherobattle.streamlit.app/
+
 ## Installation
 
 ### Prerequisites
