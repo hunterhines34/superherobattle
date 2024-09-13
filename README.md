@@ -53,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Hunter Hines - admin@hineslabs.org
 
-Project Link: [https://github.com/hunterhines34/superhero-comparison-tool](https://github.com/hunterhines34/superhero-comparison-tool)
+Project Link: [https://github.com/hunterhines34/superhero-comparison-tool](https://github.com/hunterhines34/superherobattle/tree/master)
 
 ## Acknowledgements
 - [Superhero API](https://superheroapi.com/)
